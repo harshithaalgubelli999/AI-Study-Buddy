@@ -1,33 +1,82 @@
 # AI Study Buddy - Smart Learning Platform
 
+## Project Preview
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Summary Generation
+![Summary](screenshots/summary.png)
+
+### Flashcards
+![Flashcards](screenshots/flashcards.png)
+
+### Quiz Interface
+![Quiz](screenshots/quiz.png)
+
+---
+
 ## Overview
-AI Study Buddy is an AI-powered smart learning platform designed to enhance personalized learning experiences for students. The platform focuses on intelligent educational assistance, smart recommendations, and interactive learning support using AI-driven concepts.
+
+AI Study Buddy is an AI-powered smart learning platform designed to enhance personalized learning experiences for students. The platform transforms study materials into interactive learning tools such as summaries, flashcards, and quizzes using AI-driven concepts.
+
+The project focuses on improving student engagement, intelligent educational assistance, and interactive learning support through modern frontend architecture and AI-assisted workflows.
+
+---
 
 ## Features
-- AI-assisted learning support
-- Personalized educational guidance
-- Smart recommendation concepts
-- Interactive learning environment
-- User-friendly educational interface
 
-## Technologies & Concepts
-- Artificial Intelligence
-- Machine Learning Concepts
-- Intelligent Recommendation Systems
-- Educational Technology
-- AI-driven Learning Assistance
+- AI-assisted study support
+- Automatic summary generation
+- Smart flashcard creation
+- Interactive quiz modules
+- Personalized learning experience
+- User-friendly interface
+- File upload support for study materials
+
+---
+
+## Technologies Used
+
+- TypeScript
+- React
+- HTML
+- CSS
+- AI-assisted application architecture
+- Component-based frontend development
+
+---
+
+## Project Structure
+
+- Reusable UI components
+- Service-based architecture
+- Utility modules
+- Interactive learning workflows
+- Modular frontend structure
+
+---
 
 ## Applications
+
 - Smart education systems
-- Personalized student learning
-- AI-assisted academic guidance
-- Digital learning ecosystems
+- Personalized learning platforms
+- AI-assisted academic support
+- Interactive digital learning ecosystems
+
+---
 
 ## Future Improvements
+
 - NLP-based doubt solving
 - AI chatbot integration
 - Adaptive learning systems
-- Real-time progress tracking
+- Real-time student performance analytics
+- Advanced recommendation systems
 
-## Prototype Demonstration
-This project demonstrates the concept and workflow of an AI-assisted smart learning platform designed for personalized educational support and intelligent learning guidance.
+---
+
+## Developer
+
+Harshitha Algubelli  
+B.Tech – Computer Science (AI & ML)
